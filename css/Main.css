@@ -1,0 +1,21 @@
+body{
+    background: #252526;
+    font-size:sans-serif  ;
+}
+.contenedor_princiopal{
+    width: 100%;
+    height: auto;
+    border: 1px solid red;
+}
+.contenedor-indice{
+    width: 20%;
+    height: 500px;
+    border: 1px solid lightgreen;
+}
+.contenedr-texto-indice{
+    margin: auto;
+    width: 500px;
+    line-height: 32px;
+    color: white;
+    
+}
